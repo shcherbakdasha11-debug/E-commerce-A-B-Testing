@@ -43,7 +43,7 @@ Python (pandas, NumPy, SciPy, statsmodels), Google BigQuery (SQL with CTEs, JOIN
 - Analyse `add_to_cart` per session for Test 2 (events grew by 8.9%, but this was not tested per session).
 
 ## 📈 Dashboard
-[Open the interactive Tableau dashboard]([https://public.tableau.com/app/profile/daria.shcherbak7028/viz/portfolio_AB_testing/Dashboard1?publish=yes](https://public.tableau.com/app/profile/daria.shcherbak7028/viz/portfolio_AB_testing/E-commerceABTesting))
+[Open the interactive Tableau dashboard](https://public.tableau.com/app/profile/daria.shcherbak7028/viz/portfolio_AB_testing/E-commerceABTesting)
 
 ![A/B test dashboard](images/dashboard.png)
 
